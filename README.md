@@ -17,13 +17,13 @@ O terceiro projeto foi feito para não deixar de utilizar o Kendo UI. Nunca havi
 
 As instruções de cada projeto estão em seus respectivos READMEs
 
-##Buscador de CEP
+## Buscador de CEP
 https://github.com/joabpgb/BuscadorDeCEP
 
-##DevList
+## DevList
 https://github.com/joabpgb/DevList
 
-##ToWatchList
+## ToWatchList
 https://github.com/joabpgb/ToWatchList
 
 # Autor
