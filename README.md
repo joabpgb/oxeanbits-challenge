@@ -15,12 +15,16 @@ O terceiro projeto foi feito para não deixar de utilizar o Kendo UI. Nunca havi
 
 # Como executar os projetos
 
-As instruções de cada projeto estão dentro de suas respectivas pastas
+As instruções de cada projeto estão em seus respectivos READMEs
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-```
+##Buscador de CEP
+https://github.com/joabpgb/BuscadorDeCEP
+
+##DevList
+https://github.com/joabpgb/DevList
+
+##ToWatchList
+https://github.com/joabpgb/ToWatchList
 
 # Autor
 
